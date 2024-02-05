@@ -1,0 +1,218 @@
+
+h1 {
+font-family:Poppins ;
+font-size: 30px;
+text-align: center;
+
+}
+
+.colors{
+display: grid;
+grid-template-columns: repeat(3, 1fr);
+grid-gap: 10px;
+grid-auto-rows: minmax(100px, auto);
+grid-column: 2 / 4;
+grid-row: 1 / 3;
+border: 1px solid;
+border-color: blue;
+border-style: solid;
+box-shadow: 2px 2px 3px;
+background: rgb(250, 249, 249);
+font-size:20px ;
+font-family: Poppins;
+text-align: center;
+padding: 10px;
+
+}
+.Design,
+.Designs, 
+.poli,
+.color,
+.pink
+{
+    border: 1px solid;
+    border-color: rgb(15, 15, 15);
+    border-style: solid;
+    box-shadow: 2px 2px 3px;
+    background: #AFEEEE;
+    padding: 10px;
+    margin: 10px;
+}
+
+
+.Designs{
+    background: #FFB6C1;
+}
+.poli{
+    background: #F0E68C;
+}
+color{
+    font-family: rufina;
+    font-weight: 300;
+    font-size: 26px;
+    
+}
+h2{
+    font-family: eb garamond;
+    font-size: 26px;
+    text-align: center;
+
+}
+.pink{
+    background:white ;
+}
+.normal,
+.gras,
+.italique{
+    font-family: Poppins;
+}
+.gras{
+    font-weight: 300;
+}
+
+.italique,
+.tx,
+.t{font-style: italic;
+}
+    
+
+.ram,
+.pile,
+.tx{
+    font-family: eb Garamond;
+}
+.pile{
+    font-weight: 600;
+}
+.p,
+.f,
+.t{
+    font-family: rufina;
+}
+
+.f{
+    font-weight:bold ;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
